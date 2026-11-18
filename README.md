@@ -32,20 +32,20 @@ Students often face long queues during assignment submissions and have no idea a
 
 ## Application Screenshots
 
-### Screenshot 1 – Home Screen
-![Home Screen](screenshots/home-page.png)
+### Home Screen
+![Home Screen](./screenshots/home-page.png)
 
-### Screenshot 2 – Student Print Request Screen
-![Student Print Request Screen](screenshots/student-print-request.png)
+### Student Print Request Screen
+![Student Print Request Screen](./screenshots/student-print-request.png)
 
-### Screenshot 3 – Order Confirmation Screen
-![Order Confirmation Screen](screenshots/order-confirmation.png)
+### Order Confirmation Screen
+![Order Confirmation Screen](./screenshots/order-confirmation.png)
 
-### Screenshot 4 – Shop Owner Dashboard
-![Shop Owner Dashboard](screenshots/shop-owner-dashboard.png)
+### Shop Owner Dashboard
+![Shop Owner Dashboard](./screenshots/shop-owner-dashboard.png)
 
-### Screenshot 5 – Order Verification / Pickup Code Screen
-![Order Verification Screen](screenshots/order-verification.png)
+### Order Verification Screen
+![Order Verification Screen](./screenshots/order-verification.png)
 
 ---
 
